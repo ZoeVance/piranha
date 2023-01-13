@@ -1,4 +1,4 @@
-name: piranha3
+name: piranha
 channels:
   - conda-forge
   - bioconda
@@ -9,7 +9,7 @@ dependencies:
   - mafft=7.508
   - minimap2=2.17
   - samtools=1.16.1
-  - bcftools=1.11
+  - bcftools=1.16
   - tabix=1.11
   - snakemake-minimal=7.19.1
 
