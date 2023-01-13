@@ -11,5 +11,5 @@ dependencies:
   - samtools=1.11
   - bcftools=1.11
   - tabix=1.11
-  - snakemake-minimal
+  - snakemake-minimal=7.19.1
 
