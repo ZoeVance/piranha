@@ -21,11 +21,11 @@ setup(name='piranha',
       package_data={"piranha":["data/*"]},
       install_requires=[
             "mako==1.2",
-            "pandas~=1.5",
-            "snipit",
-            "biopython",
-            "medaka>=1.7.1",
-            "numpy~=1.23.5"
+            "pandas==1.5.2",
+            "snipit==1.1.2",
+            "biopython==1.80",
+            "medaka==1.7.2",
+            "numpy==1.23.5"
       ],
       description='piranha: Poliovirus Investigation Resource Automating Nanopore Haplotype Analysis',
       url='https://github.com/aineniamh/piranha',
