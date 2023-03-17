@@ -480,7 +480,7 @@ Input options:
 
 Analysis options:
   -m ANALYSIS_MODE, --analysis-mode ANALYSIS_MODE
-                        Specify analysis mode to run. Options: `vp1`. Default: `vp1`
+                        Specify analysis mode to run. Options: `vp1`,`panev` and `wg`. Default: `vp1`
   --medaka-model MEDAKA_MODEL
                         Medaka model to run analysis using. Default: r941_min_high_g360
   --medaka-list-models  List available medaka models and exit.
